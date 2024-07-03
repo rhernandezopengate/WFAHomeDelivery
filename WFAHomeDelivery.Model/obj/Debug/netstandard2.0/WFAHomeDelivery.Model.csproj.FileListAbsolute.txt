@@ -1,0 +1,36 @@
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.deps.json
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csprojAssemblyReference.cache
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csproj.CoreCompileInputs.cache
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfoInputs.cache
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfo.cs
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.deps.json
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csprojAssemblyReference.cache
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csproj.CoreCompileInputs.cache
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfoInputs.cache
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfo.cs
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.deps.json
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csproj.AssemblyReference.cache
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfoInputs.cache
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfo.cs
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csproj.CoreCompileInputs.cache
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.deps.json
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\bin\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csproj.AssemblyReference.cache
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfoInputs.cache
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.AssemblyInfo.cs
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.csproj.CoreCompileInputs.cache
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.dll
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Model\obj\Debug\netstandard2.0\WFAHomeDelivery.Model.pdb

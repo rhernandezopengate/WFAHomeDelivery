@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5h8PkZOkPex6iIskzYIDha2kOn2HkaIPYraHIKYExBcGshEVLDxbaklMoFIvBmTn0g8YOikFK23AWFw2hsVZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rhern\\3D Objects\\Github\\WFAHomeDelivery\\WFAHomeDelivery.Controller\\WFAHomeDelivery.Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhern\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rhern\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

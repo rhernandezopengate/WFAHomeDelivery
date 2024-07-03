@@ -1,0 +1,36 @@
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.deps.json
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csprojAssemblyReference.cache
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csproj.CoreCompileInputs.cache
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfoInputs.cache
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfo.cs
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+C:\Users\rhern\OneDrive\Documentos\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.deps.json
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csprojAssemblyReference.cache
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csproj.CoreCompileInputs.cache
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfoInputs.cache
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfo.cs
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+C:\Users\RubenHernandez\Documents\GitHub\open\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.deps.json
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csproj.AssemblyReference.cache
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfoInputs.cache
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfo.cs
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csproj.CoreCompileInputs.cache
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+Z:\Sistemas\Respaldo Ruben\Source\open-master\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.deps.json
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\bin\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csproj.AssemblyReference.cache
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfoInputs.cache
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.AssemblyInfo.cs
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.csproj.CoreCompileInputs.cache
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.dll
+C:\Proyectos VS\WFAHomeDelivery\WFAHomeDelivery.Controller\obj\Debug\netstandard2.0\WFAHomeDelivery.Controller.pdb
